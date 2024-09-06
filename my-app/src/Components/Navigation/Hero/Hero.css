@@ -1,0 +1,29 @@
+.hero{
+    width:100%;
+    height: 100vh;
+    background: linear-gradient(rgba(8,0,58,0.7),rgba(8,0,58,0.7)), url('../../../assets/bgimage.jfif');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.imogi{
+    padding: 100px;
+    width: 500px;
+    height: 500px;
+    float: right;
+}
+.hero-text{
+    
+    text-align: center;
+    max-width: 800px;
+}
+.color{
+    color: white;
+    font-size: larger;
+}
+.hcolor{
+    color: white;
+}

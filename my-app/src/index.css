@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+}
+
+.btn{
+    background-color: #FFF;
+    color: #212121;
+    padding: 14px 25px;
+    font-size: 16px;
+    border-radius: 30px;
+    cursor: pointer;
+    border: 0;
+    outline: 0;
+}
+.container{
+    padding-left: 10%;
+    padding-right: 10%;
+}

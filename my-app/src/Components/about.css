@@ -1,0 +1,49 @@
+.about{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(rgba(8,0,58,0.7),rgba(8,0,58,0.7)),url('../assets/aboutimg.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.about img{
+    padding: 100px;
+    width: 40%;
+    border-radius: 20px;
+    display: flex;
+}
+.abo{
+    flex-basis: 50%;
+    color: white;
+}
+.abo p{
+    color: white;
+}
+.abo h2{
+    align-items: center;
+}
+/*.college{
+    width:100%;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.college-text{
+    text-align: center;
+    max-width: 800px;
+}*/
+
+/*
+    margin: 100px ;
+   
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat-y;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;*/

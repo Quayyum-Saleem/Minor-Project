@@ -1,0 +1,80 @@
+body {
+    background-color: skyblue;
+    background: url('../assets/conimg.jfif');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.registration-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: black;
+}
+
+.input-group {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+.input-group input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.register-button {
+    width: 100%;
+    padding: 10px;
+    background-color: goldenrod;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.register-button:hover {
+    background-color: #218838;
+}
+
+p {
+    margin-top: 20px;
+    color: black;
+}
+
+p a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+p a:hover {
+    text-decoration: underline;
+}
+.register{
+    width:100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+   
+    align-items: center;
+    justify-content: center;
+}

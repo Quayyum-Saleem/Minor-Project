@@ -1,0 +1,31 @@
+
+.eventcss{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(8,0,58,0.7),rgba(8,0,58,0.7)), url('../assets/eimg.jfif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat-y;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pic{
+    padding: 100px;
+    width: 500px;
+    height: 500px;
+    float: right;
+}
+.program{
+    text-align: center;
+    max-width: 800px;
+}
+
+
+.h{
+    color: white;
+}
+.p{
+    color: white;
+} 
